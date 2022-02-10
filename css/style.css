@@ -1,0 +1,16 @@
+:root{
+    --titanium: linear-gradient(to right, #283048, #859398);
+    --midnight-city:  linear-gradient(to right, #232526, #414345);
+    --moonlit-asteroid: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    --80s-purple: linear-gradient(to left, #41295a, #2f0743);
+}
+#bg{
+    background: var(--80s-purple);
+}
+#nav-btn{
+    font-size: medium;
+    color: #fff;
+}
+#nav-btn:hover{
+    background: rgba(0, 0, 0, 0.2);
+}
