@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d25a88fc.css",
-    "main.js": "/static/js/main.e396d445.js",
+    "main.js": "/static/js/main.b90a361b.js",
     "static/js/453.0b980956.chunk.js": "/static/js/453.0b980956.chunk.js",
     "static/media/card-art.png": "/static/media/card-art.70cd7eff2d1ffcc25608.png",
     "static/media/card-software.png": "/static/media/card-software.a95bfd7eec06bcc74fa4.png",
@@ -20,19 +20,16 @@
     "static/media/deuftr.jpg": "/static/media/deuftr.ddcc791bceb4781a3f39.jpg",
     "static/media/galyalilar.jpg": "/static/media/galyalilar.178053d04b47e64c28c6.jpg",
     "static/media/ayran.png": "/static/media/ayran.1ab3d06c4ee742b23bc6.png",
-    "static/media/yaku.co.png": "/static/media/yaku.co.9eb3d82f6784d89aa554.png",
-    "static/media/computerspace.png": "/static/media/computerspace.451e8fa4843a08ef38eb.png",
-    "static/media/qof.png": "/static/media/qof.b8d796c0f69691bc18f7.png",
     "static/media/EQDCalculator.png": "/static/media/EQDCalculator.92df58f59a14e5ee8f92.png",
     "static/media/pron.mp3": "/static/media/pron.18d5fe4f57dae6a74a86.mp3",
     "static/media/out.png": "/static/media/out.01d632fd32172ef0dcd2.png",
     "index.html": "/index.html",
     "main.d25a88fc.css.map": "/static/css/main.d25a88fc.css.map",
-    "main.e396d445.js.map": "/static/js/main.e396d445.js.map",
+    "main.b90a361b.js.map": "/static/js/main.b90a361b.js.map",
     "453.0b980956.chunk.js.map": "/static/js/453.0b980956.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d25a88fc.css",
-    "static/js/main.e396d445.js"
+    "static/js/main.b90a361b.js"
   ]
 }
